@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from django.conf import settings
 
 JWT_ALGORITHM = "HS256"
-JWT_EXPIRE_MINUTES = 15
+JWT_EXPIRE_MINUTES = 1
 
 def create_jwt(user):
     payload = {

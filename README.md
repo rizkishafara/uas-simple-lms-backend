@@ -22,7 +22,7 @@ Aplikasi Learning Management System (LMS) backend yang dibangun dengan Django da
 
 ## Prerequisites
 
-Pastikan Anda sudah menginstal:
+Pastikan sudah menginstal:
 
 - **Docker** ([Download Docker Desktop](https://www.docker.com/products/docker-desktop))
 - **Docker Compose** (biasanya sudah termasuk dengan Docker Desktop)
@@ -355,6 +355,3 @@ docker compose up
 - Dokumentasi Django: https://docs.djangoproject.com/
 - Docs Pydantic: https://docs.pydantic.dev/
 
-## License
-
-[Specify your license here]
